@@ -5,7 +5,7 @@ This Java Side Project was built to learn the Data Structure **_Priority Queue_*
 ### Priority Queue
 The Data Structure is Generic, however it can only do basic functions of the Queue.
 
-####Functionality
+#### Functionality
 * Add Element
 * Remove Element
 * Get Front
